@@ -10,13 +10,23 @@ It's a provisional place before adding to the repository.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Only add files which changed with one logical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When experimenting with new features.
+
 How do the diagrams help you visualize the branch structure?
+
+You can see which commits belong to which branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+One of the branches gets merged to the other branch.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic is faster but doesn't always work, conflicts has to be resolved.

@@ -19,3 +19,7 @@ incorporate them into master branch or if not wanted remove that branches with n
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It allows to work offline and have the latest commits with you.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Through email. Would be harder to track all the changes.

@@ -15,3 +15,7 @@ Branches: are branches emerging from master branch which are in the same reposit
 Forks and clones are used to copy other repository so you can make changes indenpendently from original source not interferring into that source.
 Branches are used to make changes beside master branch for experimental purposes, removing bugs, adding new features and similar processes and than 
 incorporate them into master branch or if not wanted remove that branches with no impact on master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows to work offline and have the latest commits with you.
